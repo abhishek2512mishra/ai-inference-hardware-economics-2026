@@ -1,0 +1,11 @@
+{
+  "title": "2026 AI Inference & Hardware Economics Telemetry",
+  "id": "eyestech/ai-inference-hardware-economics-2026",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "subtitle": "58 Cluster Configs: NVIDIA B200, H100, TPU v5p, Trainium2 TCO & KV-Cache",
+  "description": "Official open-access empirical telemetry dataset on 2026 AI Inference, Silicon Architecture, and Hardware Economics by EyesTech Systems Lab (https://eyestech.in).\n\nCanonical Research Investigation & Full Methodology:\nhttps://eyestech.in/ai-inference-hardware-economics-statistics-tco-2026/\n\nKey Metrics Recorded:\n- 58 Bare-Metal Hardware Accelerator Configurations (H100 SXM5, B200 NVL, TPU v5p, Trainium2, MI300X)\n- Serving Frameworks: vLLM (FlashAttention-3 + PagedAttention), TensorRT-LLM (FP8/FP4), Triton, Google MaxText\n- Tokens per Joule, Time-To-First-Token (TTFT), Time Per Output Token (TPOT)\n- Key-Value Cache HBM allocation at 128k context across MHA, GQA, and DeepSeek MLA"
+}

@@ -1,0 +1,9 @@
+accelerator,architecture,memory_capacity_gb,memory_type,memory_bandwidth_tb_s,tdp_watts,cooling,interconnect,fp8_dense_tflops,fp16_dense_tflops,fp4_dense_tflops,blended_cloud_hourly_rate_usd,reserved_3yr_hourly_usd,idle_power_watts,peak_inference_power_watts
+NVIDIA H100 SXM5,Hopper (GH100),80,HBM3,3.35,700,Air / Hybrid Liquid,NVLink-4 (900 GB/s),1979,989,,2.65,1.48,215,685
+NVIDIA H200 SXM5,Hopper Refresh (GH100),141,HBM3e,4.8,700,Direct Liquid / Air,NVLink-4 (900 GB/s),1979,989,,3.2,1.85,220,690
+NVIDIA B200 NVL,Blackwell (GB200/B200),192,HBM3e,8.0,1000,Direct-to-Chip Liquid Cooling,NVLink-5 (1800 GB/s),4500,2250,9000,4.6,2.75,290,980
+Google TPU v5p,TPU v5p Pod,95,HBM2e,4.8,650,Liquid-to-Air Exchanger,ICI 4800 Gbps 3D Torus,918,459,,2.1,1.25,180,610
+Google TPU v6e Trillium,Trillium Tensor Core,32,HBM,1.64,310,Air Cooled,ICI 3200 Gbps,460,230,,0.85,0.52,95,295
+AWS Trainium2 (Trn2),NeuronCore-v3,96,HBM,4.1,600,Liquid Cooling,NeuronLink-v2 (832 GB/s),840,420,,1.65,0.98,170,570
+NVIDIA L40S,Ada Lovelace (AD102),48,GDDR6 (ECC),0.864,350,Passive Air,PCIe Gen 5 x16 (64 GB/s),733,366,,1.15,0.68,110,340
+Cerebras CS-3,Wafer-Scale Engine 3 (WSE-3),44,On-Die Ultra-SRAM,21000.0,23000,Closed-Loop Liquid Chiller,Switched Wafer Mesh (450 Tbps),125000,62500,,48.0,29.5,5800,22400
