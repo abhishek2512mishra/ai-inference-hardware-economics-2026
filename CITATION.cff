@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you cite this telemetry dataset in academic research or benchmark audits, please cite it as below."
+authors:
+  - family-names: "Vance"
+    given-names: "Marcus"
+    affiliation: "EyesTech Systems Lab"
+  - family-names: "Sethi"
+    given-names: "Arjun"
+    affiliation: "EyesTech Systems Lab"
+title: "2026 AI Inference & Hardware Economics Telemetry Dataset: Benchmarking H100, H200, B200, and TPU v5p Across 58 Production Cluster Configurations"
+version: 1.0.0
+date-released: 2026-09-14
+url: "https://eyestech.in/ai-inference-hardware-economics-statistics-tco-2026/"
+repository-code: "https://github.com/abhishek2512mishra/ai-inference-hardware-economics-2026"
+license: "CC-BY-4.0"
+keywords:
+  - "llm-inference"
+  - "hardware-economics"
+  - "h100"
+  - "h200"
+  - "b200"
+  - "tpu-v5p"
+  - "kv-cache"
+  - "finops"

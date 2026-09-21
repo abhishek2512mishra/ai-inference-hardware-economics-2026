@@ -1,6 +1,8 @@
 # 🚀 2026 AI Inference & Hardware Economics Telemetry Index
 
 [![EyesTech Canonical](https://img.shields.io/badge/Canonical%20Research-EyesTech.in-002050?style=for-the-badge&logo=google-chrome)](https://eyestech.in/ai-inference-hardware-economics-statistics-tco-2026/)
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/prithuvardhanmishra/2026-ai-inference-and-hardware-economics-telemetry)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Dataset-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/devidasmishra/ai-inference-hardware-economics-2026)
 [![PyPI](https://img.shields.io/pypi/v/eyestech-mla?color=38BDF8&label=PyPI%20Reference%20Kernel&style=for-the-badge)](https://pypi.org/project/eyestech-mla/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by/4.0/)
 
